@@ -24,7 +24,7 @@ To get started with web scraping, follow these general steps:
 5. **Extract Data:** Identify the HTML elements containing the data you need and extract it.
  
 
-   ## Tools and Libraries
+## Tools and Libraries
 
 Several tools and libraries facilitate web scraping. Some popular ones include:
 
